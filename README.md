@@ -1,3 +1,5 @@
+## 
+
 The [Carboniferous period](https://en.wikipedia.org/wiki/Carboniferous) was a fascinating era for life on Earth. It began about 360 million years ago when plants first evolved the ability to form wood, and ended 60 million years later when the first fungi evolved the ability to consume it. During that period, the newly evolved trees began to massively out-compete their rivals, and spread across the globe. For 60 million years these trees would grow, and die, and litter the ground with massive stacks of dead trees, which were unable to decompose due to the lack of organisms that could digest them.
 
 As the trees piled up, absorbing CO2 from the atmosphere, the oxygen on Earth soared to as high as 35% (compared to 21% today) which led to the evolution of larger and larger creatures that could take advantage of the energy provided by all of the extra oxygen.
@@ -10,6 +12,12 @@ Many amazing projects are currently underway in the effort to scale up carbon se
 
 ### Phase One : Getting the word out
 
+Welcome to phase one of Carboniferous. Please provide feedback via twitter to @deanpierce, or via github issues or pull requests.
+
 ### Phase Two : Funding
 
+Many funding options for this project are being considered, mostly revolving crypto-incentive mechanisms, such as the governance tokens used by projects like GitCoin, which has incentivized the funding of over 50 million dollars to open source software projects.
+
 ### Phase Three : Doing
+
+
