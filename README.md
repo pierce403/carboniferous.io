@@ -18,7 +18,7 @@ Many funding options for this project are being considered, mostly revolving cry
 
 ### Phase Three : Doing
 
-Early phases will include buying up logging rights, and setting up a research facility for testing experimental logging equipment, and an experimental sawmill to prove out sustainability of various components of the wood economy. Ultimately the goal will be to create a certification process and set of standards which will enable the existing wood industry to take full advantage of the carbon tax credits, and to provide the required resources to the industry to maximize the impact of their carbon sequestration efforts.
+Early phases will include buying up logging rights, and setting up a research facility for testing experimental logging equipment, and an experimental sawmill to prove out sustainability of various components of the wood economy. Ultimately the goal will be to create a certification process and set of standards which will enable the existing wood industry to take full advantage of **carbon tax credits**, and to provide the required resources to the industry to maximize the impact of their carbon sequestration efforts.
 
 ### Resources
 
