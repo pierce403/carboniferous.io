@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## A New Era of Carbon Sequestration
 
-You can use the [editor on GitHub](https://github.com/pierce403/carboniferous.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+The [carboniferous period](https://en.wikipedia.org/wiki/Carboniferous) was a fascinating era for life on Earth. It began about 360 million years ago when plants first evolved the ability to from wood, and ended 60 million years later when the first fungi evolved the ability to consume it. During that period, the newly evolved trees began to massively outcompete their rivals, and spread across the globe. For 60 million years these trees would grow, and die, and litter the ground with massive stacks of dead trees, which were unable to decompose due to the lack of organisms that could digest them.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+As the trees piled up, absorbing CO2 from the atmosphere, the oxygen on Earth soared to as high as 35% (compared to 21% today) which led to the evolution of largeer and larger creatures that could take advantage of the energy provided by all of the extra oxygen.
 
-### Markdown
+In the modern era, most major coal deposits were formed by these same stacks of trees, compressed over the course of hundreds of millions of years until humans dug it up and started using it as fuel. We are now in a situation where all of this CO2 is, once again, being released into Earth's atomosphere. To keep our planet habitable, there is no doubt that we will need to begin sequestering carbon at an unprecedented rate. 
+### What do to?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Many amazing projects are currenlty underway in the effort to scale up carbon sequestration, but one intriguing option is often overlooked. **The large scale farming and processing of lumber for use exclusively in long term construction projects.** Recently, there has been some amazing work in using specially processed lumber for building massive structures, including [skyscrapers](https://www.euronews.com/2018/05/04/get-used-to-wooden-skyscrapers-they-are-stronger-cleaner-and-fire-resistant-view). Utilizing next generation construction technologies, like [Cross-laminated timber (CLT)](https://en.wikipedia.org/wiki/Cross-laminated_timber) we can build massive structures out of wood, which could stand for hundreds or thousands of years.
 
-```markdown
-Syntax highlighted code block
+### Phase One : Getting the word out
 
-# Header 1
-## Header 2
-### Header 3
+### Phase Two : Funding
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pierce403/carboniferous.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Phase Three : Doing
