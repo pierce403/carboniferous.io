@@ -1,6 +1,6 @@
 ## A New Era of Carbon Sequestration
 
-The [carboniferous period](https://en.wikipedia.org/wiki/Carboniferous) was a fascinating era for life on Earth. It began about 360 million years ago when plants first evolved the ability to from wood, and ended 60 million years later when the first fungi evolved the ability to consume it. During that period, the newly evolved trees began to massively out-compete their rivals, and spread across the globe. For 60 million years these trees would grow, and die, and litter the ground with massive stacks of dead trees, which were unable to decompose due to the lack of organisms that could digest them.
+The [carboniferous period](https://en.wikipedia.org/wiki/Carboniferous) was a fascinating era for life on Earth. It began about 360 million years ago when plants first evolved the ability to form wood, and ended 60 million years later when the first fungi evolved the ability to consume it. During that period, the newly evolved trees began to massively out-compete their rivals, and spread across the globe. For 60 million years these trees would grow, and die, and litter the ground with massive stacks of dead trees, which were unable to decompose due to the lack of organisms that could digest them.
 
 As the trees piled up, absorbing CO2 from the atmosphere, the oxygen on Earth soared to as high as 35% (compared to 21% today) which led to the evolution of larger and larger creatures that could take advantage of the energy provided by all of the extra oxygen.
 
